@@ -1,0 +1,520 @@
+,date,latitude,longitude,light,acclass,invtype,injury,cyclistype,cycact
+1000,2017-12-20,43.654326,-79.422664,Daylight,Fatal,Truck Driver,Fatal,,
+1001,2018-01-22,43.79074,-79.452991,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1002,2018-01-22,43.79074,-79.452991,Daylight,Non-Fatal Injury,Driver,,,
+1003,2018-01-22,43.701487,-79.365566,Daylight,Non-Fatal Injury,Driver,,,
+1004,2018-01-22,43.701487,-79.365566,Daylight,Non-Fatal Injury,Cyclist,Major,Insufficient information (to determine cyclist crash type).,Driving Properly
+1005,2018-02-03,43.6887,-79.477329,"Daylight, artificial",Non-Fatal Injury,Other,,,
+1006,2018-02-03,43.6887,-79.477329,"Daylight, artificial",Non-Fatal Injury,Cyclist,Major,Cyclist strikes a parked vehicle.,Lost control
+1007,2018-04-13,43.685553,-79.55466,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1008,2018-04-13,43.685553,-79.55466,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,Cyclist turned left across motorists path.,Disobeyed Traffic Control
+1009,2018-05-15,43.637709,-79.458881,Daylight,Fatal,Driver,Fatal,,
+1010,2018-05-15,43.637709,-79.458881,Daylight,Fatal,Cyclist,Fatal,"Motorist without ROW drives into path of cyclist at inter, lnwy, dwy-Driver not turn.",Driving Properly
+1011,2018-05-16,43.653655,-79.373218,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1012,2018-05-16,43.653655,-79.373218,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Disobeyed Traffic Control
+1013,2018-05-16,43.666098,-79.334277,Daylight,Fatal,Truck Driver,Fatal,,
+1014,2018-05-16,43.666098,-79.334277,Daylight,Fatal,Cyclist,Fatal,Motorist turning right on green or amber at signalized intersection strikes cyclist.,Driving Properly
+1015,2018-05-22,43.658751,-79.453182,Daylight,Non-Fatal Injury,Passenger,,,
+1016,2018-05-22,43.658751,-79.453182,Daylight,Non-Fatal Injury,Driver,,,
+1017,2018-05-22,43.658751,-79.453182,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist turned left across motorists path.,Improper Turn
+1018,2018-05-29,43.645056,-79.365421,Daylight,Non-Fatal Injury,Driver,,,
+1019,2018-05-29,43.645056,-79.365421,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turning right on green or amber at signalized intersection strikes cyclist.,Driving Properly
+1020,2018-05-30,43.683352,-79.311801,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Speed too Fast For Condition
+1021,2018-05-30,43.683352,-79.311801,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1022,2018-06-07,43.674731,-79.458789,"Dark, artificial",Non-Fatal Injury,Driver,Minor,,
+1023,2018-06-07,43.674731,-79.458789,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Other
+1024,2018-06-11,43.605387,-79.493869,Daylight,Non-Fatal Injury,Motorcycle Driver,,,
+1025,2018-06-11,43.605387,-79.493869,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle rear-ended the other.,Driving Properly
+1026,2018-06-12,43.667445,-79.399799,Daylight,Fatal,Truck Driver,Fatal,,
+1027,2018-06-12,43.667445,-79.399799,Daylight,Fatal,Cyclist,Fatal,Motorist turning right on green or amber at signalized intersection strikes cyclist.,Other
+1028,2018-06-16,43.706046,-79.361781,Daylight,Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Failed to Yield Right of Way
+1030,2019-04-10,43.644652,-79.416263,Daylight,Non-Fatal Injury,Driver,,,
+1031,2018-06-16,43.706046,-79.361781,Daylight,Non-Fatal Injury,Driver,,,
+1032,2018-06-28,43.679625,-79.34106,Daylight,Non-Fatal Injury,Driver,Major,,
+1033,2018-06-28,43.679625,-79.34106,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1034,2018-06-28,43.771048,-79.321101,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,Insufficient information (to determine cyclist crash type).,Lost control
+1035,2018-07-05,43.645442,-79.412372,Daylight,Non-Fatal Injury,Driver,,,
+1036,2018-07-05,43.645442,-79.412372,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Driving Properly
+1037,2018-07-16,43.659369,-79.365978,Daylight,Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Disobeyed Traffic Control
+1038,2018-07-16,43.659369,-79.365978,Daylight,Non-Fatal Injury,Driver,,,
+1039,2018-07-17,43.726866,-79.287242,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist turned left across motorists path.,Improper Turn
+1040,2018-07-17,43.726866,-79.287242,Daylight,Non-Fatal Injury,Driver,,,
+1042,2018-07-26,43.671363,-79.429553,"Daylight, artificial",Non-Fatal Injury,Driver,,,
+1043,2018-07-26,43.671363,-79.429553,"Daylight, artificial",Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1044,2018-08-02,43.661994,-79.425082,Daylight,Non-Fatal Injury,Driver,,,
+1045,2018-08-02,43.661994,-79.425082,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Driving Properly
+1046,2018-08-12,43.688647,-79.454875,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Disobeyed Traffic Control
+1047,2018-08-12,43.688647,-79.454875,Daylight,Non-Fatal Injury,Driver,,,
+1048,2018-08-19,43.652201,-79.401103,Daylight,Non-Fatal Injury,Driver,,,
+1049,2018-08-19,43.652201,-79.401103,Daylight,Non-Fatal Injury,Cyclist,Minor,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Driving Properly
+1050,2018-08-19,43.652201,-79.401103,Daylight,Non-Fatal Injury,Passenger,,,
+1051,2018-08-19,43.652201,-79.401103,Daylight,Non-Fatal Injury,Cyclist Passenger,Major,,
+1052,2018-08-25,43.703757,-79.523952,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1053,2018-08-25,43.703757,-79.523952,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1054,2018-09-06,43.730696,-79.459316,Daylight,Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Failed to Yield Right of Way
+1055,2018-09-06,43.730696,-79.459316,Daylight,Non-Fatal Injury,Driver,,,
+1056,2018-09-06,43.730696,-79.459316,Daylight,Non-Fatal Injury,Passenger,,,
+1057,2018-09-10,43.820048,-79.262058,"Dusk, artificial",Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Disobeyed Traffic Control
+1058,2018-09-10,43.820048,-79.262058,"Dusk, artificial",Non-Fatal Injury,Driver,,,
+1060,2018-09-15,43.666342,-79.43822,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1061,2019-12-14,43.753421,-79.357456,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1062,2018-09-15,43.666342,-79.43822,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,Motorist makes u-turn in-front of cyclist.,Driving Properly
+1063,2018-09-15,43.666342,-79.43822,"Dark, artificial",Non-Fatal Injury,Cyclist,Minor,Motorist makes u-turn in-front of cyclist.,Driving Properly
+1064,2018-09-17,43.781508,-79.494464,Daylight,Non-Fatal Injury,Truck Driver,,,
+1065,2018-09-17,43.781508,-79.494464,Daylight,Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Other
+1066,2018-09-17,43.647261,-79.379688,Daylight,Non-Fatal Injury,Driver,,,
+1067,2018-09-17,43.647261,-79.379688,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turning right on green or amber at signalized intersection strikes cyclist.,Driving Properly
+1068,2018-09-23,43.647772,-79.37733,Daylight,Non-Fatal Injury,Driver,,,
+1069,2018-09-23,43.647772,-79.37733,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle rear-ended the other.,Driving Properly
+1070,2018-09-23,43.68141,-79.332347,Daylight,Non-Fatal Injury,Driver,,,
+1071,2018-09-23,43.68141,-79.332347,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1072,2018-09-23,43.65576,-79.598361,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1073,2017-05-06,43.657344,-79.381328,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Driving Properly
+1074,2018-09-23,43.65576,-79.598361,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,Motorist turning right on red at signalized intersection strikes cyclist.,Driving Properly
+1075,2018-09-26,43.674388,-79.42258,Daylight,Non-Fatal Injury,Driver,,,
+1076,2018-09-26,43.674388,-79.42258,Daylight,Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Speed too Fast For Condition
+1077,2018-09-26,43.810984,-79.279712,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist turned left across motorists path.,Failed to Yield Right of Way
+1078,2018-09-26,43.810984,-79.279712,Daylight,Non-Fatal Injury,Driver,,,
+1079,2018-10-04,43.66408,-79.343036,Dawn,Non-Fatal Injury,Driver,,,
+1080,2018-10-04,43.66408,-79.343036,Dawn,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Driving Properly
+1081,2018-10-08,43.658515,-79.35094,"Dusk, artificial",Fatal,Cyclist,Fatal,Cyclist strikes a parked vehicle.,Lost control
+1082,2018-10-08,43.658515,-79.35094,"Dusk, artificial",Fatal,Driver,Fatal,,
+1083,2018-10-08,43.658515,-79.35094,"Dusk, artificial",Fatal,Other,Fatal,,
+1084,2018-10-12,43.651065,-79.47626,Daylight,Non-Fatal Injury,Driver,,,
+1085,2018-10-12,43.651065,-79.47626,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1086,2018-10-24,43.71408,-79.445865,Daylight,Non-Fatal Injury,Driver,,,
+1087,2018-10-24,43.71408,-79.445865,Daylight,Non-Fatal Injury,Cyclist,Major,"Motorist turns right at non-signal Inter.(stop, yield, no cont.,and dwy) and strikes cyclist.",Driving Properly
+1088,2018-10-30,43.81956,-79.324397,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist turns right across motorists path,Failed to Yield Right of Way
+1089,2018-10-30,43.81956,-79.324397,Daylight,Non-Fatal Injury,Driver,,,
+1090,2018-11-06,43.784629,-79.481014,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1091,2018-11-06,43.784629,-79.481014,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1092,2018-11-08,43.668891,-79.404735,Dark,Non-Fatal Injury,Cyclist,Major,Cyclist turned left across motorists path.,Improper Turn
+1093,2018-11-08,43.668891,-79.404735,Dark,Non-Fatal Injury,Driver,,,
+1094,2018-11-22,43.825247,-79.300037,Daylight,Non-Fatal Injury,Driver,,,
+1095,2018-11-22,43.825247,-79.300037,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1096,2018-11-22,43.825247,-79.300037,Daylight,Non-Fatal Injury,Passenger,,,
+1097,2018-11-29,43.816859,-79.304042,Dusk,Non-Fatal Injury,Driver,,,
+1098,2018-11-29,43.816859,-79.304042,Dusk,Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Other
+1099,2018-11-29,43.816859,-79.304042,Dusk,Non-Fatal Injury,Driver,,,
+1100,2018-11-29,43.816859,-79.304042,Dusk,Non-Fatal Injury,Passenger,,,
+1101,2018-12-07,43.659239,-79.347896,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1102,2018-12-07,43.659239,-79.347896,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Driving Properly
+1103,2019-03-18,43.656611,-79.382869,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1104,2019-03-18,43.656611,-79.382869,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,Insufficient information (to determine cyclist crash type).,Driving Properly
+1105,2019-03-23,43.663443,-79.385959,Daylight,Non-Fatal Injury,Driver,,,
+1106,2019-03-23,43.663443,-79.385959,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1111,2019-12-14,43.753421,-79.357456,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,Motorist turning right on red at signalized intersection strikes cyclist.,Driving Properly
+1113,2019-04-10,43.644652,-79.416263,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Driving Properly
+1116,2017-05-10,43.658881,-79.394641,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1118,2017-05-10,43.658881,-79.394641,Daylight,Non-Fatal Injury,Driver,,,
+1120,2020-03-15,43.718154,-79.240329,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist turned left across motorists path.,Failed to Yield Right of Way
+1121,2019-05-06,43.65148,-79.409679,Daylight,Non-Fatal Injury,Driver,,,
+1123,2017-05-11,43.678198,-79.34827,Daylight,Non-Fatal Injury,Driver,,,
+1125,2020-03-15,43.718154,-79.240329,Daylight,Non-Fatal Injury,Driver,,,
+1128,2019-05-06,43.65148,-79.409679,Daylight,Non-Fatal Injury,Cyclist,Major,"Motorist without ROW drives into path of cyclist at inter, lnwy, dwy-Driver not turn.",Driving Properly
+1129,2017-05-11,43.678198,-79.34827,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Driving Properly
+1131,2020-03-15,43.718154,-79.240329,Daylight,Non-Fatal Injury,Passenger,,,
+1133,2017-05-13,43.640685,-79.411426,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turning right on green or amber at signalized intersection strikes cyclist.,Driving Properly
+1134,2019-05-06,43.65148,-79.409679,Daylight,Non-Fatal Injury,Passenger,,,
+1136,2020-03-29,43.623797,-79.477939,Daylight,Non-Fatal Injury,Driver,,,
+1138,2017-05-13,43.640685,-79.411426,Daylight,Non-Fatal Injury,Driver,,,
+1139,2019-05-15,43.663405,-79.462817,Daylight,Non-Fatal Injury,Driver,,,
+1141,2020-03-29,43.623797,-79.477939,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Driving Properly
+1143,2020-04-04,43.726561,-79.569522,Daylight,Non-Fatal Injury,Driver,,,
+1144,2017-05-17,43.701914,-79.352802,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Improper Lane Change
+1146,2019-05-15,43.663405,-79.462817,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1147,2017-05-17,43.701914,-79.352802,Daylight,Non-Fatal Injury,Driver,,,
+1151,2020-04-04,43.726561,-79.569522,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle rear-ended the other.,Other
+1152,2017-05-23,43.664771,-79.341571,Daylight,Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Disobeyed Traffic Control
+1153,2017-05-23,43.664771,-79.341571,Daylight,Non-Fatal Injury,Driver,,,
+1157,2020-04-24,43.775935,-79.18922,Daylight,Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Failed to Yield Right of Way
+1158,2019-05-24,43.655188,-79.358905,Daylight,Non-Fatal Injury,Driver,,,
+1160,2017-05-23,43.664771,-79.341571,Daylight,Non-Fatal Injury,Driver,,,
+1162,2020-04-24,43.775935,-79.18922,Daylight,Non-Fatal Injury,Driver,,,
+1163,2020-05-02,43.641387,-79.375934,Daylight,Non-Fatal Injury,Driver,,,
+1164,2019-05-24,43.655188,-79.358905,Daylight,Non-Fatal Injury,Cyclist,Major,"Motorist turns right at non-signal Inter.(stop, yield, no cont.,and dwy) and strikes cyclist.",Driving Properly
+1167,2017-05-24,43.635432,-79.441371,Daylight,Fatal,Cyclist,Fatal,Insufficient information (to determine cyclist crash type).,Lost control
+1168,2020-05-02,43.641387,-79.375934,Daylight,Non-Fatal Injury,Cyclist,Major,"Motorist turns right at non-signal Inter.(stop, yield, no cont.,and dwy) and strikes cyclist.",Driving Properly
+1169,2019-05-26,43.647936,-79.386333,Daylight,Non-Fatal Injury,Driver,,,
+1173,2017-05-25,43.711058,-79.391185,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1174,2017-05-25,43.711058,-79.391185,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1175,2019-05-26,43.647936,-79.386333,Daylight,Non-Fatal Injury,Cyclist,Major,"Motorist turns right at non-signal Inter.(stop, yield, no cont.,and dwy) and strikes cyclist.",Driving Properly
+1176,2020-05-02,43.641387,-79.375934,Daylight,Non-Fatal Injury,Passenger,,,
+1180,2017-05-25,43.711058,-79.391185,"Dark, artificial",Non-Fatal Injury,Passenger,,,
+1182,2020-06-02,43.663226,-79.419696,Daylight,Non-Fatal Injury,Driver,,,
+1185,2021-08-15,43.673556,-79.287952,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1187,2021-08-15,43.673556,-79.287952,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,Motorist reversing struck cyclist.,Wrong Way on One Way Road
+1188,2017-05-31,43.787841,-79.183223,Daylight,Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Disobeyed Traffic Control
+1190,2021-08-18,43.668646,-79.394099,Daylight,Fatal,Cyclist,Fatal,Cyclist and Driver travelling in same direction. One vehicle rear-ended the other.,Driving Properly
+1193,2020-06-02,43.663226,-79.419696,Daylight,Non-Fatal Injury,Cyclist,Major,"Motorist without ROW drives into path of cyclist at inter, lnwy, dwy-Driver not turn.",Driving Properly
+1194,2019-05-26,43.663993,-79.369281,Daylight,Non-Fatal Injury,Driver,,,
+1196,2019-05-26,43.663993,-79.369281,Daylight,Non-Fatal Injury,Driver,,,
+1198,2019-05-26,43.663993,-79.369281,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist loses control and strikes cyclist.,Driving Properly
+1200,2020-06-08,43.751074,-79.456256,Daylight,Non-Fatal Injury,Driver,,,
+1202,2017-05-31,43.787841,-79.183223,Daylight,Non-Fatal Injury,Driver,,,
+1204,2021-08-18,43.668646,-79.394099,Daylight,Fatal,Truck Driver,Fatal,,
+1205,2017-06-03,43.67528,-79.45473,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1208,2020-06-08,43.751074,-79.456256,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1212,2019-06-01,43.654635,-79.460002,Daylight,Non-Fatal Injury,Driver,,,
+1215,2020-06-09,43.659812,-79.435321,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1218,2017-06-03,43.67528,-79.45473,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Driving Properly
+1221,2020-06-09,43.659812,-79.435321,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,Motorist makes u-turn in-front of cyclist.,Driving Properly
+1222,2019-06-01,43.654635,-79.460002,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1223,2021-08-25,43.647055,-79.393703,Daylight,Non-Fatal Injury,Driver,,,
+1225,2021-08-25,43.647055,-79.393703,Daylight,Non-Fatal Injury,Cyclist,Major,"Motorist turns right at non-signal Inter.(stop, yield, no cont.,and dwy) and strikes cyclist.",Driving Properly
+1226,2019-06-01,43.664412,-79.458736,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist turned left across motorists path.,Improper Turn
+1227,2017-06-07,43.652568,-79.432521,Daylight,Non-Fatal Injury,Driver,,,
+1230,2020-06-09,43.659812,-79.435321,"Dark, artificial",Non-Fatal Injury,Passenger,,,
+1233,2019-06-01,43.664412,-79.458736,Daylight,Non-Fatal Injury,Driver,,,
+1234,2017-06-07,43.652568,-79.432521,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1235,2020-06-10,43.717429,-79.43764,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Disobeyed Traffic Control
+1237,2020-06-10,43.717429,-79.43764,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1240,2017-06-07,43.655352,-79.385181,Daylight,Non-Fatal Injury,Driver,,,
+1241,2021-08-31,43.679221,-79.344951,Daylight,Non-Fatal Injury,Driver,,,
+1242,2017-06-07,43.655352,-79.385181,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1244,2019-06-03,43.63238,-79.410854,Daylight,Non-Fatal Injury,Driver,Major,,
+1245,2020-06-10,43.717429,-79.43764,"Dark, artificial",Non-Fatal Injury,Passenger,,,
+1249,2021-08-31,43.679221,-79.344951,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist struck opened vehicle door,Driving Properly
+1253,2021-09-02,43.659159,-79.328403,Daylight,Non-Fatal Injury,Driver,,,
+1254,2017-06-08,43.674872,-79.395358,Daylight,Non-Fatal Injury,Truck Driver,,,
+1257,2020-06-13,43.654452,-79.369418,Daylight,Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Disobeyed Traffic Control
+1258,2019-06-03,43.63238,-79.410854,Daylight,Non-Fatal Injury,Cyclist,Minimal,Motorist turning right on green or amber at signalized intersection strikes cyclist.,Driving Properly
+1261,2020-06-13,43.654452,-79.369418,Daylight,Non-Fatal Injury,Driver,,,
+1265,2017-06-08,43.674872,-79.395358,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Other
+1266,2021-09-02,43.659159,-79.328403,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1268,2019-06-15,43.642134,-79.4286,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1269,2017-06-09,43.683394,-79.323482,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Improper Lane Change
+1271,2021-09-10,43.659201,-79.381183,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1272,2020-06-23,43.724314,-79.405566,Daylight,Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Disobeyed Traffic Control
+1274,2020-06-23,43.724314,-79.405566,Daylight,Non-Fatal Injury,Driver,,,
+1278,2017-06-09,43.683394,-79.323482,Daylight,Non-Fatal Injury,Driver,,,
+1279,2019-06-15,43.642134,-79.4286,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1283,2020-06-27,43.68389,-79.511417,Daylight,Non-Fatal Injury,Driver,,,
+1284,2021-09-10,43.659201,-79.381183,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Driving Properly
+1285,2017-06-11,43.715914,-79.304904,Daylight,Non-Fatal Injury,Cyclist,Major,Insufficient information (to determine cyclist crash type).,Other
+1287,2020-06-27,43.68389,-79.511417,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turning right on green or amber at signalized intersection strikes cyclist.,Driving Properly
+1291,2017-06-11,43.715914,-79.304904,Daylight,Non-Fatal Injury,Driver,,,
+1292,2020-07-15,43.70666,-79.398326,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Improper Passing
+1295,2019-06-16,43.616923,-79.518802,Daylight,Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Disobeyed Traffic Control
+1296,2017-06-28,43.679412,-79.342189,Daylight,Non-Fatal Injury,Driver,,,
+1298,2020-07-15,43.70666,-79.398326,Daylight,Non-Fatal Injury,Truck Driver,,,
+1300,2021-09-10,43.659201,-79.381183,"Dark, artificial",Non-Fatal Injury,Passenger,,,
+1301,2020-07-21,43.644133,-79.45827,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist turned left across motorists path.,Disobeyed Traffic Control
+1302,2019-06-16,43.616923,-79.518802,Daylight,Non-Fatal Injury,Driver,,,
+1303,2017-06-28,43.679412,-79.342189,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1307,2020-07-21,43.644133,-79.45827,Daylight,Non-Fatal Injury,Driver,,,
+1308,2021-11-01,43.782305,-79.309589,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1311,2020-07-30,43.657874,-79.400012,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Improper Lane Change
+1313,2021-11-01,43.782305,-79.309589,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1314,2019-06-19,43.721755,-79.274471,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Improper Lane Change
+1315,2017-06-28,43.679412,-79.342189,Daylight,Non-Fatal Injury,Passenger,,,
+1317,2021-11-30,43.693855,-79.338466,"Dusk, artificial",Non-Fatal Injury,Driver,,,
+1319,2019-06-19,43.721755,-79.274471,Daylight,Non-Fatal Injury,Driver,,,
+1320,2017-06-28,43.679412,-79.342189,Daylight,Non-Fatal Injury,Passenger,,,
+1321,2020-07-30,43.657874,-79.400012,Daylight,Non-Fatal Injury,Driver,,,
+1323,2020-08-10,43.689456,-79.439487,Daylight,Non-Fatal Injury,Cyclist,Major,,Improper Turn
+1326,2017-06-30,43.676146,-79.494518,Daylight,Fatal,Cyclist,Fatal,"Motorist turns right at non-signal Inter.(stop, yield, no cont.,and dwy) and strikes cyclist.",Driving Properly
+1327,2021-11-30,43.693855,-79.338466,"Dusk, artificial",Non-Fatal Injury,Cyclist,Major,,Driving Properly
+1331,2019-06-19,43.721755,-79.274471,Daylight,Non-Fatal Injury,Passenger,Minimal,,
+1334,2021-12-13,43.75402,-79.600025,Daylight,Non-Fatal Injury,Driver,,,
+1336,2017-06-30,43.676146,-79.494518,Daylight,Fatal,Driver,Fatal,,
+1339,2020-08-10,43.689456,-79.439487,Daylight,Non-Fatal Injury,Driver,,,
+1342,2019-06-25,43.678828,-79.474033,Daylight,Non-Fatal Injury,Driver,Minimal,,
+1344,2021-12-13,43.75402,-79.600025,Daylight,Non-Fatal Injury,Cyclist,Major,,Other
+1346,2020-08-18,43.792048,-79.42683,Daylight,Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Disobeyed Traffic Control
+1347,2019-06-25,43.678828,-79.474033,Daylight,Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Other
+1349,2022-02-26,43.645625,-79.562526,Daylight,Non-Fatal Injury,Driver,,,
+1351,2017-07-03,43.686568,-79.401454,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist turned left across motorists path.,Improper Turn
+1353,2022-02-26,43.645625,-79.562526,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Driving Properly
+1355,2020-08-18,43.792048,-79.42683,Daylight,Non-Fatal Injury,Driver,,,
+1357,2019-06-28,43.652915,-79.364742,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist turned left across motorists path.,Improper Turn
+1359,2017-07-03,43.686568,-79.401454,Daylight,Non-Fatal Injury,Driver,,,
+1362,2020-08-23,43.716452,-79.261302,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1363,2022-04-14,43.688998,-79.460521,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1367,2020-08-23,43.716452,-79.261302,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,"Motorist without ROW drives into path of cyclist at inter, lnwy, dwy-Driver not turn.",Driving Properly
+1369,2017-07-06,43.687876,-79.58678,Daylight,Non-Fatal Injury,Driver,Major,,
+1370,2019-06-28,43.652915,-79.364742,Daylight,Non-Fatal Injury,Driver,,,
+1373,2022-04-14,43.688998,-79.460521,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1375,2020-08-25,43.618308,-79.499255,Daylight,Non-Fatal Injury,Driver,,,
+1376,2020-08-25,43.618308,-79.499255,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle rear-ended the other.,Driving Properly
+1377,2019-06-28,43.652915,-79.364742,Daylight,Non-Fatal Injury,Passenger,,,
+1378,2017-07-06,43.687876,-79.58678,Daylight,Non-Fatal Injury,Cyclist,,Motorist turning right on red at signalized intersection strikes cyclist.,Other
+1383,2022-04-14,43.688998,-79.460521,"Dark, artificial",Non-Fatal Injury,Cyclist Passenger,Minor,,
+1384,2017-07-06,43.687918,-79.302562,Daylight,Non-Fatal Injury,Driver,,,
+1385,2019-06-28,43.652915,-79.364742,Daylight,Non-Fatal Injury,Passenger,,,
+1388,2020-08-25,43.671263,-79.373225,Daylight,Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Wrong Way on One Way Road
+1390,2022-04-18,43.823619,-79.307025,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Other
+1393,2017-07-06,43.687918,-79.302562,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1394,2019-07-03,43.67525,-79.424037,"Daylight, artificial",Non-Fatal Injury,Driver,,,
+1396,2020-08-25,43.671263,-79.373225,Daylight,Non-Fatal Injury,Driver,,,
+1398,2019-07-03,43.67525,-79.424037,"Daylight, artificial",Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1401,2017-07-18,43.757689,-79.409946,Daylight,Non-Fatal Injury,Truck Driver,,,
+1403,2022-04-18,43.823619,-79.307025,"Dark, artificial",Non-Fatal Injury,Truck Driver,,,
+1406,2020-08-30,43.714793,-79.238925,Daylight,Non-Fatal Injury,Driver,,,
+1409,2022-04-25,43.677825,-79.350108,Daylight,Non-Fatal Injury,Moped Driver,Minimal,,
+1410,2017-07-18,43.757689,-79.409946,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Driving Properly
+1413,2019-07-20,43.669802,-79.388393,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1414,2017-07-26,43.652083,-79.404804,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1416,2022-04-25,43.677825,-79.350108,Daylight,Non-Fatal Injury,Pedestrian,Major,,
+1419,2020-08-30,43.714793,-79.238925,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle rear-ended the other.,Driving Properly
+1423,2019-07-20,43.669802,-79.388393,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,
+1425,2017-07-26,43.652083,-79.404804,Daylight,Non-Fatal Injury,Driver,,,
+1426,2020-09-01,43.660174,-79.433826,Daylight,Non-Fatal Injury,Driver,,,
+1427,2017-08-01,43.652007,-79.396526,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle rear-ended the other.,Failed to Yield Right of Way
+1429,2022-05-04,43.759757,-79.490039,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1433,2019-07-26,43.621604,-79.523433,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist turned left across motorists path.,Improper Turn
+1434,2020-09-01,43.660174,-79.433826,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Driving Properly
+1435,2017-08-01,43.652007,-79.396526,Daylight,Non-Fatal Injury,Driver,,,
+1438,2020-09-04,43.755072,-79.527622,"Dark, artificial",Fatal,,Fatal,,
+1440,2019-07-26,43.621604,-79.523433,Daylight,Non-Fatal Injury,Driver,,,
+1441,2022-05-04,43.759757,-79.490039,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle rear-ended the other.,Driving Properly
+1443,2020-09-04,43.755072,-79.527622,"Dark, artificial",Fatal,Cyclist,Fatal,Cyclist and Driver travelling in same direction. One vehicle rear-ended the other.,Driving Properly
+1444,2022-05-13,43.70048,-79.449024,"Dark, artificial",Fatal,Moped Driver,Fatal,,
+1447,2022-05-25,43.655512,-79.411853,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Driving Properly
+1449,2017-08-18,43.734683,-79.446399,Daylight,Non-Fatal Injury,Driver,,,
+1452,2020-09-04,43.755072,-79.527622,"Dark, artificial",Fatal,Driver,Fatal,,
+1453,2019-07-26,43.621604,-79.523433,Daylight,Non-Fatal Injury,Cyclist Passenger,Major,,
+1455,2017-08-18,43.734683,-79.446399,Daylight,Non-Fatal Injury,Cyclist,Major,"Motorist turns right at non-signal Inter.(stop, yield, no cont.,and dwy) and strikes cyclist.",Driving Properly
+1456,2017-08-21,43.659789,-79.399905,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Driving Properly
+1459,2022-05-25,43.655512,-79.411853,Daylight,Non-Fatal Injury,Driver,,,
+1460,2020-09-10,43.670973,-79.383121,"Dark, artificial",Non-Fatal Injury,Motorcycle Driver,Major,,
+1463,2019-07-29,43.667624,-79.342769,Daylight,Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Disobeyed Traffic Control
+1464,2022-05-26,43.800986,-79.406207,Daylight,Non-Fatal Injury,Driver,,,
+1465,2020-09-10,43.670973,-79.383121,"Dark, artificial",Non-Fatal Injury,Moped Passenger,Major,,
+1468,2017-08-21,43.659789,-79.399905,Daylight,Non-Fatal Injury,Driver,,,
+1472,2019-07-29,43.667624,-79.342769,Daylight,Non-Fatal Injury,Driver,,,
+1473,2020-09-20,43.651957,-79.402225,Daylight,Fatal,Cyclist,Fatal,"Cyclist loses control and strikes object (pole, ttc track)",Lost control
+1474,2022-05-26,43.800986,-79.406207,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1475,2022-05-30,43.645484,-79.364284,Daylight,Non-Fatal Injury,Driver,,,
+1478,2020-09-20,43.651957,-79.402225,Daylight,Fatal,Driver,Fatal,,
+1479,2017-08-23,43.683879,-79.300121,Daylight,Non-Fatal Injury,Driver,,,
+1481,2022-05-30,43.645484,-79.364284,Daylight,Non-Fatal Injury,Cyclist,Major,"Motorist turns right at non-signal Inter.(stop, yield, no cont.,and dwy) and strikes cyclist.",Driving Properly
+1484,2019-07-29,43.667624,-79.342769,Daylight,Non-Fatal Injury,Passenger,,,
+1487,2022-06-08,43.649314,-79.42274,Daylight,Non-Fatal Injury,Driver,,,
+1488,2017-08-23,43.683879,-79.300121,Daylight,Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Driving Properly
+1489,2020-10-11,43.673857,-79.307887,Daylight,Non-Fatal Injury,Driver,,,
+1491,2022-06-08,43.649314,-79.42274,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Driving Properly
+1493,2019-07-31,43.647738,-79.424083,Daylight,Non-Fatal Injury,Driver,,,
+1495,2017-08-30,43.663512,-79.390605,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turning right on green or amber at signalized intersection strikes cyclist.,Driving Properly
+1496,2020-10-11,43.673857,-79.307887,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1500,2020-10-11,43.697543,-79.256755,"Dusk, artificial",Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Failed to Yield Right of Way
+1501,2017-08-30,43.663512,-79.390605,Daylight,Non-Fatal Injury,Truck Driver,,,
+1503,2019-07-31,43.647738,-79.424083,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Driving Properly
+1505,2017-08-31,43.73429,-79.404529,"Daylight, artificial",Non-Fatal Injury,Driver,,,
+1506,2020-10-11,43.697543,-79.256755,"Dusk, artificial",Non-Fatal Injury,Motorcycle Driver,Minimal,,
+1508,2022-06-14,43.662306,-79.423663,Daylight,Non-Fatal Injury,Cyclist,Minimal,Cyclist strikes pedestrian.,Driving Properly
+1510,2017-08-31,43.73429,-79.404529,"Daylight, artificial",Non-Fatal Injury,Cyclist,Major,Motorist turning right on red at signalized intersection strikes cyclist.,Improper Passing
+1511,2019-07-31,43.647738,-79.424083,Daylight,Non-Fatal Injury,Passenger,,,
+1512,2020-10-28,43.659812,-79.435321,Daylight,Non-Fatal Injury,Cyclist,Major,,Failed to Yield Right of Way
+1514,2022-06-14,43.662306,-79.423663,Daylight,Non-Fatal Injury,Pedestrian,Major,,
+1516,2017-09-06,43.685328,-79.293407,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1521,2017-09-06,43.685328,-79.293407,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1522,2022-06-16,43.707385,-79.343669,Daylight,Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Disobeyed Traffic Control
+1523,2020-10-28,43.659812,-79.435321,Daylight,Non-Fatal Injury,Driver,,,
+1527,2019-07-31,43.647738,-79.424083,Daylight,Non-Fatal Injury,Passenger,,,
+1529,2020-11-01,43.65898,-79.439731,Daylight,Non-Fatal Injury,Driver,,,
+1533,2017-09-08,43.701991,-79.373752,Daylight,Non-Fatal Injury,Driver,,,
+1534,2020-11-01,43.65898,-79.439731,Daylight,Non-Fatal Injury,Cyclist,Major,"Motorist turns right at non-signal Inter.(stop, yield, no cont.,and dwy) and strikes cyclist.",Driving Properly
+1538,2022-06-16,43.707385,-79.343669,Daylight,Non-Fatal Injury,Driver,,,
+1539,2019-08-03,43.708998,-79.453655,"Daylight, artificial",Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Other
+1540,2022-06-16,43.707385,-79.343669,Daylight,Non-Fatal Injury,Passenger,,,
+1544,2019-08-03,43.708998,-79.453655,"Daylight, artificial",Non-Fatal Injury,Driver,Minimal,,
+1547,2022-06-26,43.648482,-79.396251,Daylight,Non-Fatal Injury,Driver,,,
+1549,2017-09-08,43.701991,-79.373752,Daylight,Non-Fatal Injury,Cyclist,Major,"Motorist turns right at non-signal Inter.(stop, yield, no cont.,and dwy) and strikes cyclist.",Driving Properly
+1550,2020-11-07,43.730227,-79.226428,Daylight,Non-Fatal Injury,Driver,,,
+1551,2019-08-12,43.650012,-79.386249,Daylight,Non-Fatal Injury,Driver,,,
+1552,2022-06-26,43.648482,-79.396251,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Other
+1553,2017-09-12,43.691332,-79.340617,Daylight,Non-Fatal Injury,Truck Driver,,,
+1558,2020-11-07,43.730227,-79.226428,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1559,2019-08-12,43.650012,-79.386249,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turning right on green or amber at signalized intersection strikes cyclist.,Driving Properly
+1560,2017-09-12,43.691332,-79.340617,Daylight,Non-Fatal Injury,Cyclist,Major,"Motorist turns right at non-signal Inter.(stop, yield, no cont.,and dwy) and strikes cyclist.",Driving Properly
+1562,2022-06-27,43.645774,-79.410747,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1563,2017-09-13,43.665908,-79.407436,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,Cyclist makes u-turn in-front of driver.,Improper Turn
+1566,2020-11-12,43.653449,-79.340747,Daylight,Non-Fatal Injury,Moped Driver,Major,,
+1567,2019-08-13,43.674201,-79.28017,Daylight,Non-Fatal Injury,Driver,Minimal,,
+1569,2022-06-27,43.645774,-79.410747,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1570,2017-09-13,43.665908,-79.407436,"Dark, artificial",Non-Fatal Injury,Motorcycle Driver,,,
+1573,2020-11-20,43.616103,-79.498325,Dusk,Fatal,Cyclist,Fatal,"Motorist turns right at non-signal Inter.(stop, yield, no cont.,and dwy) and strikes cyclist.",Driving Properly
+1575,2017-09-17,43.630351,-79.419742,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,Motorist turning right on red at signalized intersection strikes cyclist.,Driving Properly
+1580,2020-11-20,43.616103,-79.498325,Dusk,Fatal,Truck Driver,Fatal,,
+1583,2019-08-13,43.674201,-79.28017,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1584,2022-07-02,43.645659,-79.400592,Daylight,Non-Fatal Injury,Truck Driver,,,
+1585,2017-09-17,43.630351,-79.419742,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1588,2019-08-13,43.674201,-79.28017,Daylight,Non-Fatal Injury,Passenger,,,
+1589,2020-11-30,43.777594,-79.417827,"Daylight, artificial",Non-Fatal Injury,Cyclist,Minimal,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Other
+1590,2019-08-13,43.674201,-79.28017,Daylight,Non-Fatal Injury,Passenger,,,
+1591,2022-07-02,43.645659,-79.400592,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turning right on green or amber at signalized intersection strikes cyclist.,Driving Properly
+1592,2017-09-18,43.631358,-79.429141,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Disobeyed Traffic Control
+1599,2019-08-13,43.674201,-79.28017,Daylight,Non-Fatal Injury,Passenger,,,
+1600,2017-09-18,43.631358,-79.429141,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1601,2019-08-31,43.734889,-79.580325,Daylight,Non-Fatal Injury,Driver,,,
+1602,2020-11-30,43.777594,-79.417827,"Daylight, artificial",Non-Fatal Injury,Driver,Major,,
+1607,2022-07-07,43.767241,-79.492,Daylight,Non-Fatal Injury,Truck Driver,,,
+1608,2020-12-02,43.654608,-79.433322,Daylight,Fatal,Cyclist,Fatal,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Driving Properly
+1611,2019-08-31,43.734889,-79.580325,Daylight,Non-Fatal Injury,Cyclist,Major,"Motorist turns right at non-signal Inter.(stop, yield, no cont.,and dwy) and strikes cyclist.",Driving Properly
+1614,2017-09-24,43.698622,-79.451267,Daylight,Non-Fatal Injury,Driver,,,
+1615,2022-07-07,43.767241,-79.492,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turning right on red at signalized intersection strikes cyclist.,Driving Properly
+1616,2020-12-02,43.654608,-79.433322,Daylight,Fatal,Driver,Fatal,,
+1618,2019-09-02,43.788966,-79.307216,Daylight,Non-Fatal Injury,Driver,,,
+1621,2017-09-24,43.698622,-79.451267,Daylight,Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Failed to Yield Right of Way
+1622,2022-07-14,43.61344,-79.536372,Daylight,Non-Fatal Injury,Driver,,,
+1625,2017-10-01,43.674288,-79.434612,Daylight,Non-Fatal Injury,Driver,,,
+1626,2020-12-02,43.654608,-79.433322,Daylight,Fatal,Driver,Fatal,,
+1627,2022-07-14,43.61344,-79.536372,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Other
+1628,2020-12-09,43.782408,-79.234088,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1632,2017-10-01,43.674288,-79.434612,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1633,2019-09-02,43.788966,-79.307216,Daylight,Non-Fatal Injury,Cyclist,Major,"Motorist turns right at non-signal Inter.(stop, yield, no cont.,and dwy) and strikes cyclist.",Driving Properly
+1634,2022-07-15,43.700888,-79.425563,Dark,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Lost control
+1635,2020-12-09,43.782408,-79.234088,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,Insufficient information (to determine cyclist crash type).,Driving Properly
+1640,2021-01-20,43.700083,-79.318996,Daylight,Non-Fatal Injury,Driver,,,
+1644,2017-10-01,43.666583,-79.403827,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turning right on green or amber at signalized intersection strikes cyclist.,Failed to Yield Right of Way
+1646,2019-09-03,43.644381,-79.400058,Dark,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle rear-ended the other.,Following too Close
+1647,2021-01-20,43.700083,-79.318996,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turning right on red at signalized intersection strikes cyclist.,Failed to Yield Right of Way
+1649,2022-07-15,43.700888,-79.425563,Dark,Non-Fatal Injury,Driver,,,
+1652,2021-03-14,43.652239,-79.405978,Daylight,Non-Fatal Injury,Driver,,,
+1654,2017-10-01,43.666583,-79.403827,Daylight,Non-Fatal Injury,Truck Driver,,,
+1655,2022-08-12,43.722975,-79.330417,Daylight,Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Other
+1656,2021-03-14,43.652239,-79.405978,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Driving Properly
+1660,2019-09-03,43.644381,-79.400058,Dark,Non-Fatal Injury,Driver,,,
+1662,2022-08-12,43.722975,-79.330417,Daylight,Non-Fatal Injury,Driver,,,
+1663,2021-03-27,43.780646,-79.323901,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1666,2017-10-01,43.666583,-79.403827,Daylight,Non-Fatal Injury,Passenger,,,
+1667,2019-09-04,43.736197,-79.307407,Daylight,Non-Fatal Injury,Driver,Minimal,,
+1671,2021-03-27,43.780646,-79.323901,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1672,2022-08-22,43.807902,-79.170619,"Dusk, artificial",Non-Fatal Injury,Truck Driver,,,
+1676,2022-08-22,43.807902,-79.170619,"Dusk, artificial",Non-Fatal Injury,Cyclist,Major,"Motorist turns right at non-signal Inter.(stop, yield, no cont.,and dwy) and strikes cyclist.",Driving Properly
+1677,2021-04-02,43.705226,-79.492557,Daylight,Non-Fatal Injury,Driver,,,
+1678,2017-10-01,43.666583,-79.403827,Daylight,Non-Fatal Injury,Passenger,,,
+1679,2019-09-04,43.736197,-79.307407,Daylight,Non-Fatal Injury,Cyclist,Major,"Motorist turns right at non-signal Inter.(stop, yield, no cont.,and dwy) and strikes cyclist.",Driving Properly
+1680,2017-10-04,43.724085,-79.264446,Daylight,Non-Fatal Injury,Driver,,,
+1684,2022-08-22,43.807902,-79.170619,"Dusk, artificial",Non-Fatal Injury,Passenger,,,
+1685,2021-04-02,43.705226,-79.492557,Daylight,Non-Fatal Injury,Cyclist,Major,"Motorist turns right at non-signal Inter.(stop, yield, no cont.,and dwy) and strikes cyclist.",Driving Properly
+1688,2021-04-02,43.705226,-79.492557,Daylight,Non-Fatal Injury,Passenger,,,
+1689,2022-08-22,43.807902,-79.170619,"Dusk, artificial",Non-Fatal Injury,Passenger,,,
+1691,2017-10-04,43.724085,-79.264446,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1692,2017-01-27,43.646239,-79.377826,Daylight,Non-Fatal Injury,Driver,,,
+1694,2021-04-10,43.666285,-79.316562,Daylight,Non-Fatal Injury,Driver,,,
+1696,2019-09-07,43.590289,-79.526683,Daylight,Non-Fatal Injury,Truck Driver,,,
+1697,2017-10-04,43.666583,-79.403827,Daylight,Non-Fatal Injury,Cyclist,,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Improper Passing
+1698,2017-01-27,43.646239,-79.377826,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist struck opened vehicle door,Driving Properly
+1700,2022-08-30,43.671797,-79.514888,Daylight,Non-Fatal Injury,Driver,,,
+1701,2017-01-27,43.646239,-79.377826,Daylight,Non-Fatal Injury,Driver,,,
+1703,2019-09-07,43.590289,-79.526683,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Other
+1704,2017-10-04,43.666583,-79.403827,Daylight,Non-Fatal Injury,Driver,,,
+1705,2022-08-30,43.671797,-79.514888,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Other
+1706,2021-04-10,43.666285,-79.316562,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Driving Properly
+1708,2017-10-04,43.666583,-79.403827,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Driving Properly
+1709,2017-02-26,43.659106,-79.398532,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1710,2022-08-30,43.671797,-79.514888,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Other
+1712,2021-04-15,43.652239,-79.405978,Daylight,Non-Fatal Injury,Driver,,,
+1714,2017-10-18,43.63795,-79.431827,Daylight,Fatal,Cyclist,Fatal,"Motorist without ROW drives into path of cyclist at inter, lnwy, dwy-Driver not turn.",Driving Properly
+1715,2019-09-08,43.644381,-79.400058,Dark,Non-Fatal Injury,Driver,,,
+1718,2017-10-18,43.63795,-79.431827,Daylight,Fatal,Driver,Fatal,,
+1719,2021-04-15,43.652239,-79.405978,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turning right on red at signalized intersection strikes cyclist.,Driving Properly
+1721,2017-02-26,43.659106,-79.398532,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,Insufficient information (to determine cyclist crash type).,Other
+1723,2017-10-18,43.63795,-79.431827,Daylight,Fatal,Driver,Fatal,,
+1724,2021-05-17,43.749819,-79.408077,Daylight,Non-Fatal Injury,Driver,,,
+1726,2022-09-03,43.728224,-79.477031,Dark,Fatal,Driver,Fatal,,
+1727,2021-05-17,43.749819,-79.408077,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Driving Properly
+1728,2017-02-26,43.659106,-79.398532,"Dark, artificial",Non-Fatal Injury,Passenger,,,
+1730,2017-10-21,43.787329,-79.415561,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle rear-ended the other.,Driving Properly
+1731,2019-09-08,43.644381,-79.400058,Dark,Non-Fatal Injury,Cyclist,Major,Motorist turning right on red at signalized intersection strikes cyclist.,Driving Properly
+1732,2021-05-26,43.79373,-79.296428,Daylight,Non-Fatal Injury,Cyclist,Major,"Cyclist loses control and strikes object (pole, ttc track)",Lost control
+1733,2017-03-13,43.81272,-79.274318,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist turned left across motorists path.,Failed to Yield Right of Way
+1734,2022-09-03,43.728224,-79.477031,Dark,Fatal,Cyclist,Fatal,Motorist turned left across cyclists path.,Driving Properly
+1735,2017-10-21,43.787329,-79.415561,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1738,2017-03-13,43.81272,-79.274318,Daylight,Non-Fatal Injury,Driver,,,
+1739,2021-05-27,43.681243,-79.404117,Daylight,Non-Fatal Injury,Driver,,,
+1740,2017-10-27,43.743193,-79.582073,Dark,Non-Fatal Injury,Cyclist,Minor,Cyclist and Driver travelling in same direction. One vehicle rear-ended the other.,Other
+1741,2019-09-12,43.674407,-79.563129,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1744,2017-03-21,43.65082,-79.346919,Daylight,Non-Fatal Injury,Driver,,,
+1746,2021-05-27,43.681243,-79.404117,Daylight,Non-Fatal Injury,Cyclist,Major,"Motorist turns right at non-signal Inter.(stop, yield, no cont.,and dwy) and strikes cyclist.",Driving Properly
+1747,2019-09-12,43.674407,-79.563129,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Wrong Way on One Way Road
+1748,2022-09-03,43.728224,-79.477031,Dark,Fatal,Passenger,Fatal,Motorist turned left across cyclists path.,Driving Properly
+1750,2017-03-21,43.65082,-79.346919,Daylight,Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Disobeyed Traffic Control
+1751,2021-06-04,43.68389,-79.511417,Daylight,Non-Fatal Injury,Driver,,,
+1753,2017-10-27,43.743193,-79.582073,Dark,Non-Fatal Injury,Driver,Major,,
+1755,2022-09-09,43.751399,-79.457629,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Improper Lane Change
+1756,2021-06-04,43.68389,-79.511417,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1757,2017-03-24,43.780406,-79.412273,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1760,2019-09-14,43.662169,-79.37263,"Daylight, artificial",Non-Fatal Injury,Truck Driver,,,
+1761,2021-07-13,43.660609,-79.374698,Daylight,Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Improper Passing
+1762,2017-03-24,43.780406,-79.412273,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Disobeyed Traffic Control
+1763,2022-09-09,43.751399,-79.457629,Daylight,Non-Fatal Injury,Driver,,,
+1764,2017-11-08,43.692324,-79.477252,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle rear-ended the other.,Driving Properly
+1766,2019-09-14,43.662169,-79.37263,"Daylight, artificial",Non-Fatal Injury,Cyclist,Major,"Motorist turns right at non-signal Inter.(stop, yield, no cont.,and dwy) and strikes cyclist.",Driving Properly
+1768,2017-04-18,43.755385,-79.438442,Daylight,Non-Fatal Injury,Driver,,,
+1770,2019-09-17,43.686526,-79.514964,Daylight,Non-Fatal Injury,Driver,,,
+1771,2021-07-13,43.660609,-79.374698,Daylight,Non-Fatal Injury,Driver,,,
+1772,2022-09-14,43.649707,-79.374957,Daylight,Non-Fatal Injury,Motorcycle Driver,Major,,
+1773,2017-11-08,43.692324,-79.477252,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1774,2017-04-18,43.755385,-79.438442,Daylight,Non-Fatal Injury,Cyclist,Major,"Motorist turns right at non-signal Inter.(stop, yield, no cont.,and dwy) and strikes cyclist.",Driving Properly
+1779,2017-11-23,43.680293,-79.289165,Dark,Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1780,2019-09-17,43.686526,-79.514964,Daylight,Non-Fatal Injury,Cyclist,Major,"Motorist turns right at non-signal Inter.(stop, yield, no cont.,and dwy) and strikes cyclist.",Driving Properly
+1781,2021-07-19,43.771399,-79.413409,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle rear-ended the other.,Lost control
+1782,2022-09-14,43.649707,-79.374957,Daylight,Non-Fatal Injury,Cyclist,,Cyclist turned left across motorists path.,Improper Turn
+1784,2017-05-02,43.728068,-79.574611,"Dawn, artificial",Non-Fatal Injury,Driver,,,
+1785,2017-11-23,43.680293,-79.289165,Dark,Non-Fatal Injury,Driver,,,
+1786,2021-07-19,43.771399,-79.413409,Daylight,Non-Fatal Injury,Driver,,,
+1788,2019-09-26,43.724559,-79.324329,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Lost control
+1792,2017-05-02,43.728068,-79.574611,"Dawn, artificial",Non-Fatal Injury,Cyclist,Major,Motorist turning right on red at signalized intersection strikes cyclist.,Driving Properly
+1793,2017-11-25,43.629279,-79.553577,"Dark, artificial",Non-Fatal Injury,Cyclist,,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Improper Lane Change
+1794,2022-09-15,43.657664,-79.401332,Daylight,Non-Fatal Injury,Truck Driver,,,
+1795,2019-09-26,43.724559,-79.324329,Daylight,Non-Fatal Injury,Driver,,,
+1798,2022-09-15,43.657664,-79.401332,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist falls off bike - no contact with motorist.,Driving Properly
+1800,2019-09-26,43.724559,-79.324329,Daylight,Non-Fatal Injury,Driver,,,
+1801,2017-11-25,43.629279,-79.553577,"Dark, artificial",Non-Fatal Injury,Driver,Major,,
+1802,2017-05-06,43.657344,-79.381328,Daylight,Non-Fatal Injury,Driver,,,
+1804,2022-10-01,43.64379,-79.429195,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist turned left across motorists path.,Failed to Yield Right of Way
+1805,2019-10-05,43.676299,-79.400508,Daylight,Non-Fatal Injury,Driver,,,
+1808,2019-10-05,43.676299,-79.400508,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1809,2017-11-30,43.811564,-79.323375,Dusk,Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Disobeyed Traffic Control
+1813,2017-11-30,43.811564,-79.323375,Dusk,Non-Fatal Injury,Driver,,,
+1815,2019-10-10,43.678145,-79.424236,Daylight,Non-Fatal Injury,Cyclist,Major,,Failed to Yield Right of Way
+1816,2022-10-01,43.64379,-79.429195,Daylight,Non-Fatal Injury,Driver,,,
+1819,2017-12-15,43.812712,-79.321346,Daylight,Non-Fatal Injury,Driver,,,
+1820,2022-10-02,43.618312,-79.511256,Daylight,Non-Fatal Injury,Driver,,,
+1824,2017-12-15,43.812712,-79.321346,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Driving Properly
+1825,2019-10-10,43.678145,-79.424236,Daylight,Non-Fatal Injury,Driver,,,
+1828,2022-10-02,43.618312,-79.511256,Daylight,Non-Fatal Injury,Cyclist,Major,Motorist turning right on red at signalized intersection strikes cyclist.,Other
+1829,2022-10-24,43.661983,-79.425625,Daylight,Non-Fatal Injury,Driver,,,
+1832,2017-12-20,43.654326,-79.422664,Daylight,Fatal,Cyclist,Fatal,Insufficient information (to determine cyclist crash type).,Driving Properly
+1833,2019-10-15,43.675856,-79.318065,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1834,2022-10-24,43.661983,-79.425625,Daylight,Non-Fatal Injury,Cyclist,Major,,Driving Properly
+1835,2019-10-15,43.675856,-79.318065,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1837,2022-10-28,43.66059,-79.431628,Daylight,Non-Fatal Injury,Driver,Major,,
+1839,2019-10-25,43.788592,-79.409877,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1841,2022-10-28,43.66059,-79.431628,Daylight,Non-Fatal Injury,Cyclist,Minor,Motorist turned left across cyclists path.,Driving Properly
+1844,2022-11-02,43.744746,-79.399562,"Daylight, artificial",Non-Fatal Injury,Driver,,,
+1845,2019-10-25,43.788592,-79.409877,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,,Driving Properly
+1847,2022-11-02,43.744746,-79.399562,"Daylight, artificial",Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1848,2019-11-01,43.669177,-79.335567,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Disobeyed Traffic Control
+1851,2022-11-09,43.654647,-79.421451,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,Cyclist turned left across motorists path.,Improper Turn
+1853,2019-11-01,43.669177,-79.335567,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1854,2022-11-09,43.654647,-79.421451,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1857,2019-11-01,43.669177,-79.335567,"Dark, artificial",Non-Fatal Injury,Passenger,,,
+1860,2019-11-01,43.669177,-79.335567,"Dark, artificial",Non-Fatal Injury,Passenger,,,
+1861,2022-11-13,43.642966,-79.442165,"Dusk, artificial",Non-Fatal Injury,Driver,,,
+1862,2019-11-06,43.64363,-79.389949,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1864,2022-11-13,43.642966,-79.442165,"Dusk, artificial",Non-Fatal Injury,Cyclist,Major,"Motorist without ROW drives into path of cyclist at inter, lnwy, dwy-Driver not turn.",Driving Properly
+1865,2019-11-06,43.64363,-79.389949,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,Motorist turned left across cyclists path.,Driving Properly
+1868,2019-11-07,43.782591,-79.352336,"Dawn, artificial",Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle sideswipes the other.,Improper Lane Change
+1870,2022-11-21,43.803805,-79.137714,Daylight,Non-Fatal Injury,Driver,,,
+1872,2022-11-21,43.803805,-79.137714,Daylight,Non-Fatal Injury,Cyclist,Major,Cyclist and Driver travelling in same direction. One vehicle rear-ended the other.,Driving Properly
+1876,2019-11-07,43.782591,-79.352336,"Dawn, artificial",Non-Fatal Injury,Driver,,,
+1878,2022-11-23,43.68801,-79.394099,Daylight,Fatal,Cyclist,Fatal,Motorist turning right on green or amber at signalized intersection strikes cyclist.,Driving Properly
+1879,2019-11-21,43.811545,-79.269183,Daylight,Fatal,Cyclist,Fatal,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Disobeyed Traffic Control
+1880,2022-11-23,43.68801,-79.394099,Daylight,Fatal,Driver,Fatal,,
+1881,2019-11-21,43.811545,-79.269183,Daylight,Fatal,Driver,Fatal,,
+1882,2022-12-01,43.643412,-79.391261,Dark,Non-Fatal Injury,Driver,,,
+1883,2019-11-23,43.71741,-79.524028,Dusk,Non-Fatal Injury,Driver,,,
+1885,2019-11-23,43.71741,-79.524028,Dusk,Non-Fatal Injury,Cyclist,Major,"Motorist turns right at non-signal Inter.(stop, yield, no cont.,and dwy) and strikes cyclist.",Driving Properly
+1887,2019-11-25,43.638842,-79.386562,Daylight,Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Disobeyed Traffic Control
+1888,2022-12-01,43.643412,-79.391261,Dark,Non-Fatal Injury,Cyclist,Major,"Motorist without ROW drives into path of cyclist at inter, lnwy, dwy-Driver not turn.",Driving Properly
+1889,2019-11-25,43.638842,-79.386562,Daylight,Non-Fatal Injury,Driver,,,
+1890,2022-12-18,43.645507,-79.369792,"Dark, artificial",Non-Fatal Injury,Cyclist,Major,"Cyclist without ROW rides into path of motorist at inter, lnwy, dwy-Cyclist not turn.",Disobeyed Traffic Control
+1891,2019-12-13,43.645594,-79.518939,"Dusk, artificial",Non-Fatal Injury,Driver,,,
+1892,2022-12-18,43.645507,-79.369792,"Dark, artificial",Non-Fatal Injury,Driver,,,
+1893,2019-12-13,43.645594,-79.518939,"Dusk, artificial",Non-Fatal Injury,Cyclist,Major,Motorist turning right on red at signalized intersection strikes cyclist.,Other
+1894,2022-12-18,43.645507,-79.369792,"Dark, artificial",Non-Fatal Injury,Passenger,,,
+1895,2022-12-18,43.645507,-79.369792,"Dark, artificial",Non-Fatal Injury,Passenger,,,
