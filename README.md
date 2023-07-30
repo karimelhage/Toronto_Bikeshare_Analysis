@@ -100,9 +100,12 @@ Due to demand seasonality, any maintenance and upgrade work is best carried out 
 
 - Routes: It was seen that popular stations do not mean most popular routes. Since, this analysis does not specifically know the actual cycle routes taken by riders, a study must be done to confirm whether a popular route means a popular bicycle route. This could help planning in understanding how to main and upgrade bicycle paths especially due to the importance of time (weekday/weekend trend).
 
-<br>
-<br>
 
+## License
+This package is licensed under the MIT License. See the LICENSE file for more information.
+
+<br>
+<br>
 <br>
 
 [1] Toronto Parking Authority. Bike Share Toronto: Four Year Growth Plan. 2022
