@@ -98,7 +98,7 @@ Due to demand seasonality, any maintenance and upgrade work is best carried out 
 
 - For stations outside Spadina-Fort York: Observe Rider Behaviour to determine the best period to carry out large-scale maintenance /upgrade
 
-- Routes: It was seen that popular stations do not mean most popular routes. Since, this analysis does not specifically know the actual cycle routes taken by riders, a study must be done to confirm whether a popular route means a popular bicycle route. This could help planning in understanding how to main and upgrade bicycle paths especially due to the importance of time (weekay/weekend trend).
+- Routes: It was seen that popular stations do not mean most popular routes. Since, this analysis does not specifically know the actual cycle routes taken by riders, a study must be done to confirm whether a popular route means a popular bicycle route. This could help planning in understanding how to main and upgrade bicycle paths especially due to the importance of time (weekday/weekend trend).
 
 <br>
 <br>
