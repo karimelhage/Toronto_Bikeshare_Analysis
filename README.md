@@ -42,7 +42,7 @@ The below Analysis provides a snapshot summary of the analysis conducted. For a 
 
 ![alt text](./data/figures/Motivation.png?raw=true)
 
-In 2022, the City of Toronto launched Four Year Growth Plan to expand it’s existing bike-share network to all 25 Wards in Toronto. Considering this ambitious plan, it is worthwhile to examine the existing network of Bikeshare to attempt to pinpoint weaknesses, assess current feasibility, and shed light on factors that could help in the management of the network. Furthermore, it is worthy to analyze the current pricing model of Bikeshare Toronto. There are two types of members in the data: Annual and Casual. The Annual members pay an annual and benefit from unlimited 30/45 minute trips. Casual members have the pay-as-go option, which charges them based on the duration of the ride plus and unlock fee [2]. They can also buy day passes.
+In 2022, the City of Toronto launched Four Year Growth Plan to expand it’s existing bike-share network to all 25 Wards in Toronto. Considering this ambitious plan, it is worthwhile to examine the existing network of Bikeshare to attempt to pinpoint weaknesses, assess current feasibility, and shed light on factors that could help in the management of the network. Furthermore, it is worthy to analyze the current pricing model of Bikeshare Toronto. There are two types of members in the data: Annual and Casual. The Annual Members pay an annual and benefit from unlimited 30/45 minute trips. Casual members have the pay-as-go option, which charges them based on the duration of the ride plus and unlock fee [2]. They can also buy day passes.
 
 ### Casual Members Overtake Annual Members
 
@@ -58,25 +58,25 @@ There has been a rapid growth in usage by Casual Members in 2020 ( 100% increase
 
 ![alt text](./data/figures/weather_2.png?raw=true)
 
-Demand is evidently very seasonal and it seems attractive to ride bikes only during specific periods of the year. Could it be interesting to investigate alternative membership options that leverage this? Furthermore, This bizarre phenomenon of trips increasing with Rainfall seems to be linked to the Temperature more than the rainfall itself. However, considering this trend it is worth noting to ensure the best safety measures are put in place to ensure riders can ride safely during months with heavy rainfall. It is recommended to instead refer to Temperature, Snowfall, or windspeed to anticipate demand. In fact, there seems to be a strong seasonality in the demand which helps forecast bicycle demand and station allocation.
+Demand is evidently very seasonal and it seems attractive to ride bikes only during specific periods of the year. Could it be interesting to investigate alternative membership options that leverage this? Furthermore, this bizarre phenomenon of trips increasing with Rainfall seems to be linked to the Temperature more than the rainfall itself. However, considering this trend it is worth noting to ensure the best safety measures are put in place to ensure riders can ride safely during months with heavy rainfall. It is recommended to instead refer to Temperature, Snowfall, or Windspeed to anticipate demand. In fact, there seems to be a strong seasonality in the demand which helps forecast bicycle demand and station allocation.
 
 ### So How is Demand Being Served?
 
 ![alt text](./data/figures/station_network_plan.png?raw=true)
 
-Before 2020, expansion was only in one region of Toronto.  After 2020, expansion began outside but with still constant capacity addition in the main network region. Are these actions justified?
+Before 2020, expansion was only in one region of Toronto. After 2020, expansion began outside but with still constant capacity addition in the main network region. Are these actions justified?
 
 ### Yes! Users unsurprisingly love  Spadina-Fort York 
 
 ![alt text](./data/figures/station_popularity.png?raw=true)
 
-The Ward Spadina-Fort York is undoubtedly a very popular ward and was seen previously being the ward with the highest number of stations (and hence capacity). As we can see in the above information, the decision to have many stations in this ward is justified considering the stations in this ward are more popular destinations than origins. Furthermore, during the weekend, this ward dominates in both origin and destination and hence fleet management is particularly important then. Interestingly, the station York St/ Queens Quay W is the most popular start and end destination. Since the goal of the plan is to put a station in every ward, it might also be interesting to investigate the data of actual bike inflow and outflow from these stations to understand if increasing the capacity of existing stations is also key.
+The Ward Spadina-Fort York is undoubtedly a very popular ward and was seen previously being the ward with the highest number of stations (and hence capacity). As we can see in the above information, the decision to have many stations in this ward is justified considering the stations in this ward are more popular destinations than origins. Furthermore, during the weekend, this ward dominates in both origin and destination and hence fleet management is particularly important then. Interestingly, the station York St/ Queens Quay W is the most popular start and end destination. Since the goal of the plan is to put a station in every ward, it is interesting to investigate the data of actual bike inflow/outflow from these stations to understand if increasing the capacity of existing stations is also key.
 
 ### But Popular Station Does Not Mean Popular Route...
 
 ![alt text](./data/figures/popular_routes.png?raw=true)
 
-When looking at the top 10 most popular routes, it can be observed that a sizeable amount falls outside of Spadina-Fort york. This is even more significant during the weekend. Since it cannot be directly inferred what is the exact route of the individual from this available data, it is worth understanding the inflow/outflow on specific bike paths to prioritize maintenance and investment in route expansion if needed. Furthermore, during the weekend, less popular wards have popula routes.
+When looking at the top 10 most popular routes, it can be observed that a sizeable amount falls outside of Spadina-Fort york. This is even more significant during the weekend. Since it cannot be directly inferred what is the exact route of the individual from this available data, it is worth understanding the inflow/outflow on specific bike paths to prioritize maintenance and investment in route expansion if needed. In summary, less popular wards have popular routes during the weekend.
 
 ## Recommendations
 
@@ -84,21 +84,21 @@ When looking at the top 10 most popular routes, it can be observed that a sizeab
 
 The network expansion seems warranted due to the rapid growth of bike use. However:
 
-- Be wary of the drip in use by your Annual Members. Assess revenue from bike share to understand if there is Annual Member churn. In any case, Annual membership does not seem to be an attractive focus option.
+- Be wary of the dip in use by your Annual Members. Assess revenue from bike share to understand if there is Annual Member churn. In any case, Annual membership does not seem to be an attractive focus option.
 
 - Change in cycling trends seems to be in favour of expansion. Survey riders to understand if Covid-19 has changed preferences and behaviours, if members mainly use bikes for leisure, this could impact the prioritization of investment for expansion.
 
-- Due to the prevalence of strong seasonality in demand and if ridership share between Casual and Annual members persists into 2023, it could be interesting to consider different membership options such as high season,  peak hours, etc. Members could benefit from perks such as bike reservations, tailored unlimited ride offers etc.
+- Due to the prevalence of strong seasonality in demand and if ridership share between Casual and Annual members persists into 2023, it could be interesting to consider different membership options such as high season, peak hours, etc. Members could benefit from perks such as bike reservations, tailored unlimited ride offers etc.
 
 **Route Optimization and Upgrade:**
 
-Due to demand seasonality, any maintenance and upgrade work is best carried out outside the middle of the year. This can be tricky as this also tends to be the period with the harshest weather. The good news is that the main driver of rider demand is temperature rather than necessarily rainfall. Other options include:
+Due to demand seasonality, any maintenance and upgrade work is best carried out anytime but the middle of the year. This can be tricky as this also tends to be the period with the harshest weather. The good news is that the main driver of rider demand is temperature rather than necessarily rainfall. Other options include:
 
-- For Spadina-Fork stations: Partial shutdown and reroute to nearby stations --> should be easy considering the ward with the highest number of station capacity
+- For Spadina-Fort York stations: Partial shutdown and reroute to nearby stations --> should be easy considering it is the ward with the highest number of station capacity
 
-- For stations outside Spadina-Fort York: Observe Rider Behaviour to determine the best period to carry out large-scale maintenance /upgrade
+- For stations outside Spadina-Fort York: Observe rider nehaviour to determine the best period to carry out large-scale maintenance/upgrade
 
-- Routes: It was seen that popular stations do not mean most popular routes. Since, this analysis does not specifically know the actual cycle routes taken by riders, a study must be done to confirm whether a popular route means a popular bicycle route. This could help planning in understanding how to main and upgrade bicycle paths especially due to the importance of time (weekday/weekend trend).
+- It was seen that a popular station does not imply popular route. Since, this analysis does not specifically know the actual cycle routes taken by riders, a study must be done to confirm whether a popular route means a popular bicycle route. This could help understanding how to maintain/upgrade bicycle paths, especially due to the importance of time (weekday/weekend trend).
 
 
 ## License
